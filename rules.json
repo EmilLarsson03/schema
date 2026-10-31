@@ -1,20 +1,44 @@
 {
-  "_info": "Reglerna körs uppifrån och ner. 'pattern' är ett regex (skiftlägesokänsligt), 'replace' kan använda grupper som \\1. 'field' är SUMMARY (standard), LOCATION eller DESCRIPTION. Byt ut exemplen mot dina egna när vi sett hur schemat ser ut.",
   "rules": [
     {
       "field": "SUMMARY",
-      "pattern": "^TNA001.*Föreläsning.*$",
-      "replace": "Linjär algebra – F"
+      "pattern": "^TMKA05\\\\, ([^\\\\,]+)(\\\\,.*)?$",
+      "replace": "Konstruktionsmetodik: \\1"
     },
     {
       "field": "SUMMARY",
-      "pattern": "^TNA001.*Lektion.*$",
-      "replace": "Linjär algebra – L"
+      "pattern": "^TMME13\\\\, ([^\\\\,]+)(\\\\,.*)?$",
+      "replace": "Mekanik - Statik: \\1"
     },
     {
       "field": "SUMMARY",
-      "pattern": "\\s{2,}",
-      "replace": " "
+      "pattern": "^TKMJ24\\\\, ([^\\\\,]+)(\\\\,.*)?$",
+      "replace": "Miljöteknik: \\1"
+    },
+    {
+      "field": "SUMMARY",
+      "pattern": ": FÖ$",
+      "replace": ": Föreläsning"
+    },
+    {
+      "field": "SUMMARY",
+      "pattern": ": LE$",
+      "replace": ": Lektion"
+    },
+    {
+      "field": "SUMMARY",
+      "pattern": ": LAB$",
+      "replace": ": Laboration"
+    },
+    {
+      "field": "SUMMARY",
+      "pattern": ": SEM$",
+      "replace": ": Seminarium"
+    },
+    {
+      "field": "SUMMARY",
+      "pattern": ": TEN$",
+      "replace": ": Tentamen"
     }
   ]
 }
