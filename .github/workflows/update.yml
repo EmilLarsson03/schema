@@ -1,0 +1,36 @@
+name: Uppdatera schema
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # var tredje timme
+  workflow_dispatch: {}      # kan även köras manuellt
+  push:
+    paths:
+      - rules.json
+      - convert.py
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Konvertera schema
+        env:
+          SCHEDULE_URL: ${{ secrets.SCHEDULE_URL }}
+        run: python convert.py
+
+      - name: Committa om något ändrats
+        run: |
+          git config user.name "schedule-bot"
+          git config user.email "schedule-bot@users.noreply.github.com"
+          git add docs/schedule.ics
+          git diff --cached --quiet || git commit -m "Uppdaterat schema"
+          git push
