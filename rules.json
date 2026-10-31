@@ -6,8 +6,8 @@
       "match": "^TMKA05"
     },
     {
-      "file": "mekanik-statik.ics",
-      "name": "Mekanik - Statik",
+      "file": "mekanik-dynamik.ics",
+      "name": "Mekanik - Dynamik",
       "match": "^TMME13"
     },
     {
@@ -25,7 +25,7 @@
     {
       "field": "SUMMARY",
       "pattern": "^TMME13\\\\, ([^\\\\,]+)(\\\\,.*)?$",
-      "replace": "Mekanik - Statik: \\1"
+      "replace": "Mekanik - Dynamik: \\1"
     },
     {
       "field": "SUMMARY",
