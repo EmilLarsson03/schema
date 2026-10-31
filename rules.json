@@ -1,4 +1,21 @@
 {
+  "calendars": [
+    {
+      "file": "konstruktionsmetodik.ics",
+      "name": "Konstruktionsmetodik",
+      "match": "^TMKA05"
+    },
+    {
+      "file": "mekanik-statik.ics",
+      "name": "Mekanik - Statik",
+      "match": "^TMME13"
+    },
+    {
+      "file": "miljoteknik.ics",
+      "name": "Miljöteknik",
+      "match": "^TKMJ24"
+    }
+  ],
   "rules": [
     {
       "field": "SUMMARY",
