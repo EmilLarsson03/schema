@@ -1,0 +1,20 @@
+{
+  "_info": "Reglerna körs uppifrån och ner. 'pattern' är ett regex (skiftlägesokänsligt), 'replace' kan använda grupper som \\1. 'field' är SUMMARY (standard), LOCATION eller DESCRIPTION. Byt ut exemplen mot dina egna när vi sett hur schemat ser ut.",
+  "rules": [
+    {
+      "field": "SUMMARY",
+      "pattern": "^TNA001.*Föreläsning.*$",
+      "replace": "Linjär algebra – F"
+    },
+    {
+      "field": "SUMMARY",
+      "pattern": "^TNA001.*Lektion.*$",
+      "replace": "Linjär algebra – L"
+    },
+    {
+      "field": "SUMMARY",
+      "pattern": "\\s{2,}",
+      "replace": " "
+    }
+  ]
+}
