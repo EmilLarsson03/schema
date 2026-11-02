@@ -56,6 +56,16 @@
       "field": "SUMMARY",
       "pattern": ": TEN$",
       "replace": ": Tentamen"
+    },
+    {
+      "field": "SUMMARY",
+      "pattern": ": PROJ$",
+      "replace": ": Projekttid"
+    },
+    {
+      "field": "SUMMARY",
+      "pattern": ": EG$",
+      "replace": ": Eget Arbete"
     }
   ]
 }
