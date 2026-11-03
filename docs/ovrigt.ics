@@ -10,8 +10,8 @@ BEGIN:VEVENT
 DTSTART:20261105T071500Z
 DTEND:20261105T160000Z
 UID:4023582--425816690-0@timeedit.com
-DTSTAMP:20261103T064951Z
-LAST-MODIFIED:20261103T064951Z
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
 SUMMARY:SB\, MI2\, MI1\, EMM3\, M2\, EMM2\, DPU1\, EMM1\, M1\, DPU2\, MI3\,
   DPU3\, M3
 LOCATION:
@@ -22,8 +22,8 @@ BEGIN:VEVENT
 DTSTART:20261124T080000Z
 DTEND:20261124T160000Z
 UID:3986689--425816690-0@timeedit.com
-DTSTAMP:20261103T064951Z
-LAST-MODIFIED:20261103T064951Z
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
 SUMMARY:MÄSSA\, MI2\, MI1\, EMM3\, M2\, EMM2\, DPU1\, EMM1\, M1\, DPU2\, M
  I3\, DPU3\, M3\, MEC1\, MEC2\, AER1\, AER2\, SUS1\, SUS2\, DES1\, DES2
 LOCATION:
@@ -33,8 +33,8 @@ BEGIN:VEVENT
 DTSTART:20270118T071500Z
 DTEND:20270118T090000Z
 UID:4103812--425816690-0@timeedit.com
-DTSTAMP:20261103T064951Z
-LAST-MODIFIED:20261103T064951Z
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
  E0007041%3A148a
 SUMMARY:TSRT04\, FÖ\, MED2\, I2\, M2\, EMM2\, DPU2
@@ -47,8 +47,8 @@ BEGIN:VEVENT
 DTSTART:20270118T091500Z
 DTEND:20270118T110000Z
 UID:4109634--425816690-0@timeedit.com
-DTSTAMP:20261103T064951Z
-LAST-MODIFIED:20261103T064951Z
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
  E0007003%3A2C4
 SUMMARY:TMPS34\, TMPT06\, SE\, I3\, MI1\, DPU2
@@ -62,8 +62,8 @@ BEGIN:VEVENT
 DTSTART:20270118T121500Z
 DTEND:20270118T140000Z
 UID:4102242--425816690-0@timeedit.com
-DTSTAMP:20261103T064951Z
-LAST-MODIFIED:20261103T064951Z
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
  E0007003%3A2C.2
 SUMMARY:TAMS11\, FÖ\, DI2\, DPU2\, KB3ci
@@ -77,8 +77,8 @@ BEGIN:VEVENT
 DTSTART:20270119T071500Z
 DTEND:20270119T090000Z
 UID:4106200--425816690-0@timeedit.com
-DTSTAMP:20261103T064951Z
-LAST-MODIFIED:20261103T064951Z
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
  E0007003%3A2C.3
 SUMMARY:TMPR11\, FÖ\, DPU2
@@ -89,11 +89,28 @@ DESCRIPTION:Kurs: Formgivning \nLärare: Mats Nåbo \nInformation: Kursintr
  =742&sharepoitype=identifier&sharepoi=E0007003%3A2C.3\nID 4106200
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270119T091500Z
+DTEND:20270119T110000Z
+UID:4135999--425816690-0@timeedit.com
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
+URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
+ E0007001%3A2B%3A903
+SUMMARY:TMPR11\, DATALAB\, DPU2.b\, DPU2.c
+LOCATION:Lokal: Bifrost \nLokal: Jotunheim \nLokal: Vanheim
+DESCRIPTION:Kurs: Formgivning \nInformation: Övningar ytmodellering \nUnde
+ rvisningstyp: Datalaboration \nKarta: https://use.mazemap.com/?campusid=74
+ 2&sharepoitype=identifier&sharepoi=E0007001%3A2B%3A903 \nKarta: https://us
+ e.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007001%3A2C
+ %3A847 \nKarta: https://use.mazemap.com/?campusid=742&sharepoitype=identif
+ ier&sharepoi=E0007001%3A2C%3A847B\nID 4135999
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270119T121500Z
 DTEND:20270119T140000Z
 UID:4109635--425816690-0@timeedit.com
-DTSTAMP:20261103T064951Z
-LAST-MODIFIED:20261103T064951Z
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
  E0007001%3A2C%3A872
 SUMMARY:TMPS34\, TMPT06\, FÖ\, I3\, MI1\, DPU2
@@ -108,8 +125,8 @@ BEGIN:VEVENT
 DTSTART:20270120T071500Z
 DTEND:20270120T090000Z
 UID:4102244--425816690-0@timeedit.com
-DTSTAMP:20261103T064951Z
-LAST-MODIFIED:20261103T064951Z
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
  E0007003%3A2C.1
 SUMMARY:TAMS11\, FÖ\, DI2\, M2\, CS1\, TB2\, DPU2\, KB3ci
@@ -123,8 +140,8 @@ BEGIN:VEVENT
 DTSTART:20270120T091500Z
 DTEND:20270120T110000Z
 UID:4106201--425816690-0@timeedit.com
-DTSTAMP:20261103T064951Z
-LAST-MODIFIED:20261103T064951Z
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
  E0007041%3A148a
 SUMMARY:TMPR11\, FÖ\, DPU2
@@ -135,11 +152,28 @@ DESCRIPTION:Kurs: Formgivning \nLärare: Anna Ingemark \nInformation: Desig
  201
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270120T121500Z
+DTEND:20270120T140000Z
+UID:4136002--425816690-0@timeedit.com
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
+URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
+ E0007001%3A2C%3A852
+SUMMARY:TMPR11\, DATALAB\, DPU2.b\, DPU2.c
+LOCATION:Lokal: Alfheim \nLokal: Jotunheim \nLokal: Vanheim
+DESCRIPTION:Kurs: Formgivning \nInformation: Övningar ytmodellering \nUnde
+ rvisningstyp: Datalaboration \nKarta: https://use.mazemap.com/?campusid=74
+ 2&sharepoitype=identifier&sharepoi=E0007001%3A2C%3A852 \nKarta: https://us
+ e.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=E0007001%3A2C
+ %3A847 \nKarta: https://use.mazemap.com/?campusid=742&sharepoitype=identif
+ ier&sharepoi=E0007001%3A2C%3A847B\nID 4136002
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270121T071500Z
 DTEND:20270121T090000Z
 UID:4109636--425816690-0@timeedit.com
-DTSTAMP:20261103T064951Z
-LAST-MODIFIED:20261103T064951Z
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
  E0007003%3A2C.1
 SUMMARY:TMPS34\, TMPT06\, FÖ\, I3\, MI1\, DPU2
@@ -151,11 +185,75 @@ DESCRIPTION:Kurs: Tillverkningsteknik \nKurs: Produktionsteknik för design
  109636
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270121T121500Z
+DTEND:20270121T140000Z
+UID:4136005--425816690-0@timeedit.com
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
+URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
+ E0007001%3A3C%3A954
+SUMMARY:TMPR11\, WSHOP\, DPU2.b
+LOCATION:Lokal: Dest
+DESCRIPTION:Kurs: Formgivning \nLärare: Mats Nåbo \nInformation: Halvklas
+ s B1 Ateljen kl 10:15 \nHalvklass B2 Desi2 kl 10:30 \nUndervisningstyp: Wo
+ rkshop \nKarta: https://use.mazemap.com/?campusid=742&sharepoitype=identif
+ ier&sharepoi=E0007001%3A3C%3A954\nID 4136005
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270121T141500Z
+DTEND:20270121T160000Z
+UID:4136008--425816690-0@timeedit.com
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
+URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
+ E0007001%3A3C%3A954
+SUMMARY:TMPR11\, WSHOP\, DPU2.b
+LOCATION:Lokal: Dest
+DESCRIPTION:Kurs: Formgivning \nLärare: Mats Nåbo \nInformation: Halvklas
+ s B2 Ateljen kl 10:15 \nHalvklass B1 Desi2 kl 10:30 \nUndervisningstyp: Wo
+ rkshop \nKarta: https://use.mazemap.com/?campusid=742&sharepoitype=identif
+ ier&sharepoi=E0007001%3A3C%3A954\nID 4136008
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T071500Z
+DTEND:20270122T090000Z
+UID:4136009--425816690-0@timeedit.com
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
+URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
+ E0007001%3A2C%3A852
+SUMMARY:TMPR11\, DATALAB\, DPU2.a\, DPU2.b\, DPU2.c
+LOCATION:Lokal: Alfheim \nLokal: Jotunheim \nLokal: Vanheim
+DESCRIPTION:Kurs: Formgivning \nLärare: Mats Nåbo \nInformation: fordonsp
+ rojekt \nUndervisningstyp: Datalaboration \nKarta: https://use.mazemap.com
+ /?campusid=742&sharepoitype=identifier&sharepoi=E0007001%3A2C%3A852 \nKart
+ a: https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
+ E0007001%3A2C%3A847 \nKarta: https://use.mazemap.com/?campusid=742&sharepo
+ itype=identifier&sharepoi=E0007001%3A2C%3A847B\nID 4136009
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270122T091500Z
+DTEND:20270122T110000Z
+UID:4136010--425816690-0@timeedit.com
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
+URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
+ E0007001%3A2C%3A852
+SUMMARY:TMPR11\, DATALAB\, DPU2.a\, DPU2.b\, DPU2.c
+LOCATION:Lokal: Alfheim \nLokal: Jotunheim \nLokal: Vanheim
+DESCRIPTION:Kurs: Formgivning \nLärare: Mats Nåbo \nInformation: fordonsp
+ rojekt \nUndervisningstyp: Datalaboration \nKarta: https://use.mazemap.com
+ /?campusid=742&sharepoitype=identifier&sharepoi=E0007001%3A2C%3A852 \nKart
+ a: https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
+ E0007001%3A2C%3A847 \nKarta: https://use.mazemap.com/?campusid=742&sharepo
+ itype=identifier&sharepoi=E0007001%3A2C%3A847B\nID 4136010
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270122T121500Z
 DTEND:20270122T140000Z
 UID:4102245--425816690-0@timeedit.com
-DTSTAMP:20261103T064951Z
-LAST-MODIFIED:20261103T064951Z
+DTSTAMP:20261103T094619Z
+LAST-MODIFIED:20261103T094619Z
 URL:https://use.mazemap.com/?campusid=742&sharepoitype=identifier&sharepoi=
  E0007003%3A2C.1
 SUMMARY:TAMS11\, FÖ\, DI2\, M2\, CS1\, TB2\, DPU2\, KB3ci
